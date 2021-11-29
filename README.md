@@ -5,11 +5,10 @@
 |Title|Author|
 |-----|------|
 |How to read a financial report | John A Tracy|
-|How to use Financial Statements  a guide to understanding the numbers |James Bandler|
 
 _Optional books:_
 Warrent Buffet and the interpretation of financial statements by David Clark and Mary Buffett
-, Warren buffet Accounting by Preston Pysh and Stig Brodersen
+, Warren buffet Accounting by Preston Pysh and Stig Brodersen, How to use Financial Statements  a guide to understanding the numbers by James Bandler
 
 ### Investing framework
 ----
