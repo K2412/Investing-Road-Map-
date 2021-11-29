@@ -28,14 +28,14 @@ The Dhandho Investor: The Low - Risk Value Method to High Returns by Mohnish Pab
 You should read these books if you want to really dive deep into the framework. IF not skip to next section.  
 |Title|Author|
 |-----|------|
+|Margin of Safety |Seth Klarman|
 |The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor|Howard Marks|
 |Mastering the Market Cycle: Getting the Odds on Your Side|Howard Marks|
-|Margin of Safety |Seth Klarman|
-|Berkshire Hathaway letters to shareholder 1965-2019||
-|the Essays of Warren buffet|Lawrence A. Cunningham|
-|poor charlie's almanack|Charlie Munger|
 |the intellegent investor|Benjamin Graham, Jason Zweig|
 |Security Analysis: Sixth Edition, Foreword by Warren Buffett (Security Analysis Prior Editions) 6th Edition|Benjamin Graham|
+|poor charlie's almanack|Charlie Munger|
+|Berkshire Hathaway letters to shareholder 1965-2019||
+|the Essays of Warren buffet|Lawrence A. Cunningham|
 |Nomad Investment Partnership letters|
 |Scion capital  investment letters|
 
@@ -47,7 +47,6 @@ _for the Benjamin grahm books you can use the 100 page summarys by Preston Georg
 |-----|------|
 |You Can Be a Stock Market Genius|Joel Greenblatt|
 |The Little Book of Big Profits from Small Stocks + Website: Why You'll Never Buy a Stock Over $10 Again (Little Books. Big Profits)|Hilary Kramer|
-|Little Book of Alternative Investments|Ben Stein, Don Hagen|
 |The Little Book of Emerging Markets: How To Make Money in the World's Fastest Growing Markets|Mark Mobius|
 |100 to 1 in the Stock Market: A Distinguished Security Analyst Tells How to Make More of Your Investment Opportunities|Thomas William Phelps, Scott R. Pollak|
 
@@ -82,7 +81,6 @@ _for the Benjamin grahm books you can use the 100 page summarys by Preston Georg
 |Naked Economics: Undressing the Dismal Science|Charles Wheelan, Kerin McCue|
 |Naked Money: A Revealing Look at What It Is and Why It Matters|Charles Wheelan|
 |Misbehaving: The Making of Behavioral Economics|Richard H. Thaler|
-|Irrational exuberance|Robert J. Shiller|
 |The Economics of Blockchain | 
 |The Internet of Money|Andreas M. Antonopoulos|
 |The Internet of Money V2|Andreas M. Antonopoulos|
