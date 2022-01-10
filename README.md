@@ -31,14 +31,14 @@ _Optional books:_
 You should read these books if you want to really dive deep into the framework. IF not skip to next section.  
 |Title|Author|
 |-----|------|
-|Margin of Safety |Seth Klarman|
 |The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor|Howard Marks|
 |Mastering the Market Cycle: Getting the Odds on Your Side|Howard Marks|
-|the intellegent investor|Benjamin Graham, Jason Zweig|
+|Margin of Safety |Seth Klarman|
+|The intellegent investor|Benjamin Graham, Jason Zweig|
 |Security Analysis: Sixth Edition, Foreword by Warren Buffett (Security Analysis Prior Editions) 6th Edition|Benjamin Graham|
 |Poor charlie's almanack|Charlie Munger|
+|The essays of Warren Buffet|Lawrence A. Cunningham|
 |Berkshire Hathaway letters to shareholder 1965-2019||
-|the Essays of Warren buffet|Lawrence A. Cunningham|
 |Nomad Investment Partnership letters|
 |Scion capital  investment letters|
 
