@@ -7,7 +7,7 @@
 |How to read a financial report | John A Tracy|
 
 _Optional books:_
-- Warrent Buffet and the interpretation of financial statements by David Clark and Mary Buffett (a tough read but the concepts are interesting)
+- Warrent Buffet and the interpretation of financial statements by David Clark and Mary Buffett (a tough read but the concepts are interesting! )
 - Warren buffet Accounting by Preston Pysh and Stig Brodersen
 - How to use Financial Statements  a guide to understanding the numbers by James Bandler
 - Quality of Earning by Thornton L. O'glove
