@@ -18,7 +18,7 @@ Warrent Buffet and the interpretation of financial statements by David Clark and
 |Invested: How I Learned to Master My Mind, My Fears, and My Money to Achieve Financial Freedom and Live a More Authentic Life (with a Little Help from Warren Buffett, Charlie Munger, and My Dad)|Danielle Town|
 
 _Optional books:_
-The Dhandho Investor: The Low - Risk Value Method to High Returns by Mohnish Pabrai
+- The Dhandho Investor: The Low - Risk Value Method to High Returns by Mohnish Pabrai
 , Payback Time: Making Big Money Is the Best Revenge! by Phil Town
 , Warren Buffett’s 3 Favorite Books: A guide to The Intelligent Investor, Security Analysis, and The Wealth of Nations (Warren Buffett's 3 Favorite Books Book 1) by Preston George Pysh
 , Investing Between the Lines: How to Make Smarter Decisions By Decoding CEO Communications by L.J. Rittenhouse, The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom and Enlightenment by Guy Spier
@@ -39,7 +39,7 @@ You should read these books if you want to really dive deep into the framework. 
 |Nomad Investment Partnership letters|
 |Scion capital  investment letters|
 
-_for the Benjamin grahm books you can use the 100 page summarys by Preston George Pysh and youtube chapter summaries to supliment reading_  
+_for the Benjamin Graham books you can use the 100 page summarys by Preston George Pysh and youtube chapter summaries to supliment reading_  
 
 ### Applying the Framework 
 ----  
