@@ -1,4 +1,4 @@
-# Investing-Road-Map-
+# Investing-Road-Map
 ## What I think are seminal resources to learn investing   
 ### An introduction 
 ----
