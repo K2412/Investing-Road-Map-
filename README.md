@@ -7,8 +7,10 @@
 |How to read a financial report | John A Tracy|
 
 _Optional books:_
-Warrent Buffet and the interpretation of financial statements by David Clark and Mary Buffett
-, Warren buffet Accounting by Preston Pysh and Stig Brodersen, How to use Financial Statements  a guide to understanding the numbers by James Bandler
+- Warrent Buffet and the interpretation of financial statements by David Clark and Mary Buffett (a tough read but the concepts are interesting)
+- Warren buffet Accounting by Preston Pysh and Stig Brodersen
+- How to use Financial Statements  a guide to understanding the numbers by James Bandler
+- Quality of Earning by Thornton L. O'glove
 
 ### Investing framework
 ----
@@ -19,9 +21,10 @@ Warrent Buffet and the interpretation of financial statements by David Clark and
 
 _Optional books:_
 - The Dhandho Investor: The Low - Risk Value Method to High Returns by Mohnish Pabrai
-, Payback Time: Making Big Money Is the Best Revenge! by Phil Town
-, Warren Buffett’s 3 Favorite Books: A guide to The Intelligent Investor, Security Analysis, and The Wealth of Nations (Warren Buffett's 3 Favorite Books Book 1) by Preston George Pysh
-, Investing Between the Lines: How to Make Smarter Decisions By Decoding CEO Communications by L.J. Rittenhouse, The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom and Enlightenment by Guy Spier
+- Payback Time: Making Big Money Is the Best Revenge! by Phil Town
+- Warren Buffett’s 3 Favorite Books: A guide to The Intelligent Investor, Security Analysis, and The Wealth of Nations (Warren Buffett's 3 Favorite Books Book 1) by Preston George Pysh
+- Investing Between the Lines: How to Make Smarter Decisions By Decoding CEO Communications by L.J. Rittenhouse
+- The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom and Enlightenment by Guy Spier
 
 ### The classics 
 ----
@@ -33,13 +36,13 @@ You should read these books if you want to really dive deep into the framework. 
 |Mastering the Market Cycle: Getting the Odds on Your Side|Howard Marks|
 |the intellegent investor|Benjamin Graham, Jason Zweig|
 |Security Analysis: Sixth Edition, Foreword by Warren Buffett (Security Analysis Prior Editions) 6th Edition|Benjamin Graham|
-|poor charlie's almanack|Charlie Munger|
+|Poor charlie's almanack|Charlie Munger|
 |Berkshire Hathaway letters to shareholder 1965-2019||
 |the Essays of Warren buffet|Lawrence A. Cunningham|
 |Nomad Investment Partnership letters|
 |Scion capital  investment letters|
 
-_for the Benjamin Graham books you can use the 100 page summarys by Preston George Pysh and youtube chapter summaries to supliment reading_  
+_for the Benjamin Graham books you can use the 100 page summaries and Youtube chapter summaries by Preston George Pysh to supliment reading_  
 
 ### Applying the Framework 
 ----  
