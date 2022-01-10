@@ -1,5 +1,5 @@
 # Investing-Road-Map
-## What I think are seminal resources to learn investing   
+## What I think are seminal books to learn investing   
 ### An introduction 
 ----
 |Title|Author|
