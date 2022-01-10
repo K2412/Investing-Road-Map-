@@ -12,7 +12,7 @@ _Optional books:_
 - How to use Financial Statements  a guide to understanding the numbers by James Bandler
 - Quality of Earning by Thornton L. O'glove
 
-### Investing framework
+### Investing framework overview 
 ----
 |Title|Author|
 |-----|------|
@@ -26,7 +26,7 @@ _Optional books:_
 - Investing Between the Lines: How to Make Smarter Decisions By Decoding CEO Communications by L.J. Rittenhouse
 - The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom and Enlightenment by Guy Spier
 
-### The classics 
+### Investing Framework OG edition 
 ----
 You should read these books if you want to really dive deep into the framework. IF not skip to next section.  
 |Title|Author|
