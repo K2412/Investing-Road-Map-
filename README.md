@@ -12,7 +12,7 @@ _Optional books:_
 - How to use Financial Statements  a guide to understanding the numbers by James Bandler
 - Quality of Earning by Thornton L. O'glove
 
-### Investing framework overview 
+### Investing Framework
 ----
 |Title|Author|
 |-----|------|
